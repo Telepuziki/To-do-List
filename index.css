@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.btn {
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 6px 12px;
+    font-size: 26px;
+    color: white;
+}
+
+.btn-danger {
+    background-color: red;
+}
+
+.btn-primary {
+    background-color: cyan;
+}
+
+.column-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+}
+
+.bordered-block {
+    border: 3px solid;
+    border-radius: 10px;
+}
+
+body {
+    height: 100vh;
+    background-color: lightgreen;
+}
+
+.container {
+    padding: 50px;
+}
+
+.options-label {
+    font-size: 26px;
+}
+
+.todos-filter {
+    font-size: 25px;
+    padding: 5px 10px;
+}
+
+.todo-content-input {
+    font-size: 24px;
+}
+
+.todo-list {
+    padding: 20px;
+    width: 60vmax;
+}
+
+.todo-item {
+    white-space: pre-wrap;
+    margin-top: 20px;
+    border-color: lime;
+    font-size: 30px;
+    padding: 20px;
+}
