@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Todo list</title>
+    <link rel="stylesheet" href="./index.css">
+</head>
+<body>
+    <div class="container column-flex">
+        <form id="todo-form" class="todo-form column-flex">
+            <textarea id="todo-content-input" class="todo-content-input bordered-block" cols="50" rows="10"></textarea>
+            <button class="btn btn-primary">Add todo</button>
+        </form>
+        <label class="options-label" for="todos-filter">Filter by</label>
+        <select id="todos-filter" class="todos-filter bordered-block"></select>
+
+        <label class="options-label" for="todos-sort">Sort by</label>
+        <select id="todos-sort" class="todos-filter bordered-block"></select>
+
+        <ol id="todo-list" class="todo-list"></ol>
+    </div>
+    <script type="module" src="./index.js"></script>
+</body>
+</html>
