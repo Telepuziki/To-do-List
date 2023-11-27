@@ -27,9 +27,9 @@
   <summary>Содержание</summary>
   <ol>
     <li>
-      <a href="#about-the-project">О проекте</a>
+      <a href="#О проекте">О проекте</a>
       <ul>
-        <li><a href="#О проекте">Built With</a></li>
+        <li><a href="#Использующиеся технологии">Использующиеся технологии</a></li>
       </ul>
     </li>
     <li>
@@ -68,9 +68,9 @@
 
 
 
-### Built With
+### Использующиеся технологии
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+В этом разделе перечислены все основные фреймворки/библиотеки, используемые для создания приложения. 
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
