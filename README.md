@@ -74,9 +74,9 @@
 
 В этом разделе перечислены все основные фреймворки/библиотеки, используемые для создания приложения. 
 
-![image](https://github.com/smartis2816/To-do-List/assets/106492599/ef2908a7-d11e-4d14-bcb9-bfffe3602a97)
-
-<img src="https://github.com/smartis2816/To-do-List/assets/106492599/ef2908a7-d11e-4d14-bcb9-bfffe3602a97" alt="Logo" width="80" height="80">
+* <img src="https://github.com/smartis2816/To-do-List/assets/106492599/ef2908a7-d11e-4d14-bcb9-bfffe3602a97" alt="Logo" width="80" height="80"> - JavaScript
+* <img src="https://github.com/smartis2816/To-do-List/assets/106492599/f5e6d61e-a2ca-401c-a887-e9b09801b4d9" alt="Logo" width="80" height="80"> - HTML
+* <img src="https://github.com/smartis2816/To-do-List/assets/106492599/64a54bd2-2421-4849-9c8d-58ee6fa3973d" alt="Logo" width="80" height="80"> - CSS
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
