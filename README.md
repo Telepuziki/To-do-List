@@ -1,22 +1,9 @@
 <a name="readme-top"></a>
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://private-user-images.githubusercontent.com/138122117/283590987-182a79f2-73fe-4c73-b6b6-0d3f9b0f3386.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEwODI5MTYsIm5iZiI6MTcwMTA4MjYxNiwicGF0aCI6Ii8xMzgxMjIxMTcvMjgzNTkwOTg3LTE4MmE3OWYyLTczZmUtNGM3My1iNmI2LTBkM2Y5YjBmMzM4Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMTI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTEyN1QxMDU2NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mN2M1ZmI1Y2Y4OTI2Mzc1MDEyZWZhNDVkYmM1NTIzYmZjYmI0YzAzZDAyNDE5OGRlMjE1YTJkOTU0OGI2ZmFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.vVxiZ_08ntnOTZSo-zbQ3E5PIOmugjs-4hA-vxW03GE)g" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Telepuziki/To-do-List">
+    <img src="https://private-user-images.githubusercontent.com/138122117/283590987-182a79f2-73fe-4c73-b6b6-0d3f9b0f3386.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEwODI5MTYsIm5iZiI6MTcwMTA4MjYxNiwicGF0aCI6Ii8xMzgxMjIxMTcvMjgzNTkwOTg3LTE4MmE3OWYyLTczZmUtNGM3My1iNmI2LTBkM2Y5YjBmMzM4Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMTI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTEyN1QxMDU2NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mN2M1ZmI1Y2Y4OTI2Mzc1MDEyZWZhNDVkYmM1NTIzYmZjYmI0YzAzZDAyNDE5OGRlMjE1YTJkOTU0OGI2ZmFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.vVxiZ_08ntnOTZSo-zbQ3E5PIOmugjs-4hA-vxW03GE" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">To-do-List</h3>
