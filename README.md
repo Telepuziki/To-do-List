@@ -76,6 +76,8 @@
 
 ![image](https://github.com/smartis2816/To-do-List/assets/106492599/ef2908a7-d11e-4d14-bcb9-bfffe3602a97)
 
+<img src="https://github.com/smartis2816/To-do-List/assets/106492599/ef2908a7-d11e-4d14-bcb9-bfffe3602a97" alt="Logo" width="80" height="80">
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
