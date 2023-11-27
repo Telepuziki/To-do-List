@@ -74,15 +74,7 @@
 
 В этом разделе перечислены все основные фреймворки/библиотеки, используемые для создания приложения. 
 
-<img src="https://icons8.com/icon/108784/javascript" alt="Logo" width="80" height="80">
-* [![javascript]]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+![image](https://github.com/smartis2816/To-do-List/assets/106492599/ef2908a7-d11e-4d14-bcb9-bfffe3602a97)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
