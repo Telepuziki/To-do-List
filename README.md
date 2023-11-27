@@ -12,7 +12,7 @@
     Приложение для составления списков дел.
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Перейти в репозиторий</a>
+    <a href="https://github.com/Telepuziki/To-do-List/">Перейти в репозиторий</a>
     ·
     <a href="https://github.com/Telepuziki/To-do-List/issues">Сообщить об ошибке</a>
     ·
