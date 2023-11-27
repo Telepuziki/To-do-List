@@ -74,6 +74,8 @@
 
 В этом разделе перечислены все основные фреймворки/библиотеки, используемые для создания приложения. 
 
+
+![Изображение](https://icons8.com/icon/108784/javascript "Логотип JavaScript")
 * [![javascript]]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
