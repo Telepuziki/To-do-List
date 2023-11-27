@@ -27,7 +27,7 @@
   <summary>Содержание</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">О проекте</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -51,9 +51,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+## О проекте
 
 Представляем вам приложение для составления списка дел, созданное при помощи JavaScript, HTML и CSS. 
 
