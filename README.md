@@ -35,7 +35,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project ## (О проекте)
+## About The Project (О проекте)
 
 Представляем вам приложение для составления списка дел, . 
 
@@ -50,7 +50,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Built With ## (Технологии)
+## Built With (Технологии)
 
 Приложение создано при помощи JavaScript, HTML и CSS.
 <br />
@@ -60,7 +60,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
-## Roadmap ## (Дорожная карта)
+## Roadmap (Дорожная карта)
 
 - [x] Лого организации
 - [x] Написать MVP To-do трекера
