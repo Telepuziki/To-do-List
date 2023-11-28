@@ -1,4 +1,4 @@
-import { TodoApp } from "./TodoApp.js";
+import { TodoApp } from "./todo/TodoApp.js";
 
 const todoForm  = document.getElementById("todo-form");
 const todoInput = document.getElementById("todo-content-input");
