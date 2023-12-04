@@ -1,7 +1,7 @@
 import { TodoList } from "./TodoList.js";
-import { classNames } from "./utils/classNames.js";
-import { UI } from "./UI.js";
-import { filterOptions, sortOptions } from "./utils/utils.js";
+import { classNames } from "../../utils/classNames.js";
+import { UI } from "../UI.js";
+import { filterOptions, sortOptions } from "../../utils/utils.js";
 
 
 export class TodoApp {

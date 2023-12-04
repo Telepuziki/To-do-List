@@ -1,5 +1,5 @@
 import { Todo } from "./Todo.js";
-import { filterOptions, sortOptions } from "./utils/utils.js";
+import { filterOptions, sortOptions } from "../../utils/utils.js";
 
 export class TodoList {
     constructor() {

@@ -1,5 +1,5 @@
-import {classNames} from "./utils/classNames.js";
-import {createElement} from "./utils/utils.js";
+import {classNames} from "../utils/classNames.js";
+import {createElement} from "../utils/utils.js";
 
 export class UI {
 
