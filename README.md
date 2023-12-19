@@ -62,6 +62,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Запуск Unit тестов -->
+### Run Unit tests
 ### Запуск Unit тестов
 
 Для того, чтобы запустить unit тестирование используйте команду:
@@ -75,6 +76,27 @@ npm run test
 ```
 yarn test
 ```
+
+<!-- Запуск Unit тестов -->
+### Run in Docker
+### Запуск в Docker
+
+Чтобы создать image
+
+Склонируйте репозиторий и перейдите в его директорию
+
+```
+docker build -t to-do-list .
+```
+
+Чтобы запустить контейнер с приложением
+
+```
+docker run -dp 127.0.0.1:8080:8080 to-do-list
+```
+
+Через несколько секунд откройте To-do-List в браузере http://localhost:8080/
+
 
 <!-- ROADMAP -->
 ### Roadmap
