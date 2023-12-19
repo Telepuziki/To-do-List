@@ -61,6 +61,21 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Запуск Unit тестов -->
+### Запуск Unit тестов
+
+Для того, чтобы запустить unit тестирование используйте команду:
+
+```
+npm run test
+```
+
+или:
+
+```
+yarn test
+```
+
 <!-- ROADMAP -->
 ### Roadmap
 ### Дорожная карта
