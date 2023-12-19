@@ -1,12 +1,21 @@
-import { Todo } from "./Todo.js";
-import { filterOptions, sortOptions } from "../../utils/utils.js";
+import {
+    Todo
+} from "./Todo.js";
+import {
+    filterOptions,
+    sortOptions
+} from "../../utils/utils.js";
 
 export class TodoList {
     constructor() {
-        const storedTodos = JSON.parse(localStorage.getItem('todos')) || [];
-        this.todos = storedTodos.map(({ completed, content, id }) => {
+        const storedTodos = localStorage.getItem('todos');
+        this.todos = storedTodos ? JSON.parse(storedTodos).map(({
+            completed,
+            content,
+            id
+        }) => {
             return new Todo(content, id, completed);
-        });
+        }) : [];
     }
 
     addTodo(content) {
